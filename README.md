@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, <em>I'm Omar Ahmed</em> </h1>
 <h3 align="center">
-  <img src="https://royalsociety.org/-/media/events/2016/04/Machine-learning/machine-learning-event-copyright-kirillm.jpg" width="350" height="300">
+  <img src="https://octodex.github.com/images/okal-eltocat.jpg" width="350" height="300">
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarahmed19992&label=Profile%20views&color=0e75b6&style=flat" alt="omarahmed19992" /> </p>
