@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, <em>I'm Omar Ahmed</em> </h1>
 <h3 align="center">A passionate and interested in Machine & Deep Learning from Egypt 
 
-![hey](http://g-square.in/wp-content/uploads/2017/02/images.duckduckgo.com_.jpg)
+![hey](https://royalsociety.org/-/media/events/2016/04/Machine-learning/machine-learning-event-copyright-kirillm.jpg)
   
 </h3>
 
