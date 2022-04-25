@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Omar Ahmed</h1>
-<h3 align="center">A passionate and interested in Machine & Deep Learning from Egypt</h3>
+<h1 align="center">Hi 👋, <em>I'm Omar Ahmed</em> </h1>
+<h3 align="center">A passionate and interested in Machine & Deep Learning from Egypt 
+
+![hey](http://g-square.in/wp-content/uploads/2017/02/images.duckduckgo.com_.jpg)
+  
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarahmed19992&label=Profile%20views&color=0e75b6&style=flat" alt="omarahmed19992" /> </p>
 
