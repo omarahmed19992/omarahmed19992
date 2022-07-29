@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **omarahmed1999sb@gmail.com**
 
-- 🤔 I’m currently open for:  `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1_urlJ6oMmDV8MhAAL9yTNdMkbvEZQbIK/view?usp=sharing)
+- 🤔 I’m currently open for:  `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1JVZJXmOMkl5QtXLpN_-6YV5MYyfRVf3e/view?usp=sharing)
 
 - ⚡ Fun fact **I'm athlete too**
 
