@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarahmed19992" alt="omarahmed19992" /></a> </p>
 
-- 🔭 I’m currently working on **VTON in E-Commerce**
+- 🔭 I’m currently working on **/for myself as self employed**
 
 - 🌱 I’m currently learning **GANs**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **omarahmed1999sb@gmail.com**
 
-- 🤔 I’m currently open for:  `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1didgXew39dK6rwNQm9WvM-GXs7oBYIjx/view?usp=sharing)
+- 🤔 I’m currently open for:  `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1TcpDdcl_eWRjwkh1IMFK280H2hihAsFN/view?usp=sharing)
 
 - ⚡ Fun fact **I'm athlete too**
 
