@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, <em>I'm Omar Ahmed</em> </h1>
 <h3 align="center">
-  <img src="https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793765.jpg?t=st=1715954390~exp=1715957990~hmac=8521a796dd6664730d0c84a0260dbbce773a7c03fab73a49526b131386b7f9c1&w=1060" width="512" height="720">
+  <img src="https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793765.jpg?t=st=1715954390~exp=1715957990~hmac=8521a796dd6664730d0c84a0260dbbce773a7c03fab73a49526b131386b7f9c1&w=1060" width="512" height="512">
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarahmed19992&label=Profile%20views&color=0e75b6&style=flat" alt="omarahmed19992" /> </p>
