@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarahmed19992" alt="omarahmed19992" /></a> </p>
 
-- 🔭 (My LinkedIn)[https://www.linkedin.com/in/omar-ahmed-67589916b/]
+- 🔭 [My LinkedIn](https://www.linkedin.com/in/omar-ahmed-67589916b/)
 
 - 📫 How to reach me **omarahmed1999sb@gmail.com**
 
