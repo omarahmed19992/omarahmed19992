@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, <em>I'm Omar Ahmed</em> </h1>
 <h3 align="center">
-  <img src="https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling-fairytale_23-2150793765.jpg?t=st=1715954390~exp=1715957990~hmac=8521a796dd6664730d0c84a0260dbbce773a7c03fab73a49526b131386b7f9c1&w=1060" width="512" height="512">
+  <img src="Omar.png" width="1000" height="400">
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarahmed19992&label=Profile%20views&color=0e75b6&style=flat" alt="omarahmed19992" /> </p>
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **omarahmed1999sb@gmail.com**
 
-- 🤔 I’m currently open for:  `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1TcpDdcl_eWRjwkh1IMFK280H2hihAsFN/view?usp=sharing)
+- 🤔 I’m currently open for:  `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1xaZJFeMukUnaMX2X3vGdNvNnkKRpPPh0/view?usp=sharing)
 
 - ⚡ Fun fact **I'm athlete too**
 
