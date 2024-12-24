@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **omarahmed1999sb@gmail.com**
 
-- 🤔 I’m currently open for: new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1xaZJFeMukUnaMX2X3vGdNvNnkKRpPPh0/view?usp=sharing)
+- 🤔 I’m currently open for: new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/14BM4y4oLJ3vXS6CQRyW3yuZkm7eiaRAK/view?usp=sharing)
 
 - ⚡ Fun fact **I'm athlete too**
 
